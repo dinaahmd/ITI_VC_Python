@@ -1,0 +1,5 @@
+to remove remote
+git push origin :branch_name
+
+to remove local
+git branch -d branch_name
